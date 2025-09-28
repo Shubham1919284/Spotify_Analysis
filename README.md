@@ -73,15 +73,18 @@ Power Query / M — for data preprocessing
 Custom dark Spotify-like theme (JSON)
 
 Navigation buttons & UI design using bookmarks
-
+--- 
 📸 Screenshots
 The following screenshots are included in this repo:
 
 Page	Screenshot File	Preview 
-Overview	Spotify_Analysis(1).png	
-Songs	Spotify_Analysis(2).png	
-Artists	Spotify_Analysis(3).png	
-Alternate	Spotify_Analysis(4).png	
+| Home Page | Index Page |  
+|-----------|------------|  
+| ![Home](https://github.com/Shubham1919284/Spotify_Analysis/blob/1a91c6020702277b1801ff0813ac452c1e25a7b6/Spotify_Analysis(1).png) | ![Index](https://github.com/Shubham1919284/Spotify_Analysis/blob/1a91c6020702277b1801ff0813ac452c1e25a7b6/Spotify_Analysis(2).png) |  
+
+| Calculator Page | Membership Analytics |  
+|-----------------|----------------------|  
+| ![Calculator](https://github.com/Shubham1919284/Spotify_Analysis/blob/1a91c6020702277b1801ff0813ac452c1e25a7b6/Spotify_Analysis(3).png) | ![Members](https://github.com/Shubham1919284/Spotify_Analysis/blob/1a91c6020702277b1801ff0813ac452c1e25a7b6/Spotify_Analysis(4).png) |  
 
 🚀 How to Use / Run
 Clone this repo:
