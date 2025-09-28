@@ -63,6 +63,7 @@ MEASURE '_Measures'[Oldest Release Year] = MINX('Top-50-world', YEAR('Top-50-wor
 … (other measures as in project)
 These are used in KPI cards, charts, and slicer logic (Month/Quarter switching).
 ```
+---
 🧰 Tech Stack & Tools
 Power BI Desktop — for creating visuals & data model
 
@@ -78,32 +79,32 @@ Navigation buttons & UI design using bookmarks
 The following screenshots are included in this repo:
 
 Page	Screenshot File	Preview 
-| Home Page | Index Page |  
+| Home Page | Overview Page |  
 |-----------|------------|  
 | ![Home](https://github.com/Shubham1919284/Spotify_Analysis/blob/1a91c6020702277b1801ff0813ac452c1e25a7b6/Spotify_Analysis(1).png) | ![Index](https://github.com/Shubham1919284/Spotify_Analysis/blob/1a91c6020702277b1801ff0813ac452c1e25a7b6/Spotify_Analysis(2).png) |  
-
-| Calculator Page | Membership Analytics |  
+---
+| Artists Page | Songs Page |  
 |-----------------|----------------------|  
 | ![Calculator](https://github.com/Shubham1919284/Spotify_Analysis/blob/1a91c6020702277b1801ff0813ac452c1e25a7b6/Spotify_Analysis(3).png) | ![Members](https://github.com/Shubham1919284/Spotify_Analysis/blob/1a91c6020702277b1801ff0813ac452c1e25a7b6/Spotify_Analysis(4).png) |  
-
+---
 🚀 How to Use / Run
 Clone this repo:
 
-bash
+```bash
 Copy code
 git clone https://github.com/Shubham1919284/Spotify_Analysis.git
+```
 Open the .pbit or .pbix file (whichever you used) in Power BI Desktop.
 
 Interact with slicers and visuals; your measures and filters are already embedded.
 
-Optionally, you can export to Power BI Service (if you sign in) to share.
-
+---
 👤 Author & Contact
 Shubham Kumar Jha
 
 GitHub: Shubham1919284
 
 LinkedIn: https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c
-
+---
 🏷️ Tags / Keywords
 PowerBI, DataVisualization, Spotify, DAX, Analytics, Dashboard, BI, MusicData, DataStories
