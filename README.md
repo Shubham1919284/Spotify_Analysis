@@ -71,7 +71,6 @@ DAX — used extensively for measures & filtering logic
 
 Power Query / M — for data preprocessing
 
-Custom dark Spotify-like theme (JSON)
 ---
 Navigation buttons & UI design using bookmarks
 --- 
