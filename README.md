@@ -72,7 +72,7 @@ DAX — used extensively for measures & filtering logic
 Power Query / M — for data preprocessing
 
 Custom dark Spotify-like theme (JSON)
-
+---
 Navigation buttons & UI design using bookmarks
 --- 
 📸 Screenshots
@@ -94,17 +94,18 @@ Clone this repo:
 Copy code
 git clone https://github.com/Shubham1919284/Spotify_Analysis.git
 ```
+```
 Open the .pbit or .pbix file (whichever you used) in Power BI Desktop.
-
+```
+```
 Interact with slicers and visuals; your measures and filters are already embedded.
-
+```
 ---
 👤 Author & Contact
 Shubham Kumar Jha
 
-GitHub: Shubham1919284
-
-LinkedIn: https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c
+- 🔗 [LinkedIn – Shubham Kumar Jha](https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c)  
+- 💻 [GitHub – Shubham1919284](https://github.com/Shubham1919284)
 ---
 🏷️ Tags / Keywords
 PowerBI, DataVisualization, Spotify, DAX, Analytics, Dashboard, BI, MusicData, DataStories
